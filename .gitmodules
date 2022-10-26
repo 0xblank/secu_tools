@@ -1,0 +1,3 @@
+[submodule "forensic/bmc-tools"]
+	path = forensic/bmc-tools
+	url = https://github.com/ANSSI-FR/bmc-tools
