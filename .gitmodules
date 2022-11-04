@@ -13,3 +13,6 @@
 [submodule "forensic/community"]
 	path = forensic/community
 	url = https://github.com/volatilityfoundation/community
+[submodule "forensic/profiles"]
+	path = forensic/profiles
+	url = https://github.com/volatilityfoundation/profiles
