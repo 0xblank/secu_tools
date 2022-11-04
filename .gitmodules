@@ -4,3 +4,6 @@
 [submodule "forensic/forensic/bruteforce-luks"]
 	path = forensic/forensic/bruteforce-luks
 	url = https://github.com/glv2/bruteforce-luks
+[submodule "forensic/volatility3"]
+	path = forensic/volatility3
+	url = https://github.com/volatilityfoundation/volatility3
