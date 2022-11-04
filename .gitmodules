@@ -10,3 +10,6 @@
 [submodule "forensic/aes-finder"]
 	path = forensic/aes-finder
 	url = https://github.com/mmozeiko/aes-finder
+[submodule "forensic/community"]
+	path = forensic/community
+	url = https://github.com/volatilityfoundation/community
