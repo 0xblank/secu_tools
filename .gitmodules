@@ -1,3 +1,6 @@
 [submodule "forensic/bmc-tools"]
 	path = forensic/bmc-tools
 	url = https://github.com/ANSSI-FR/bmc-tools
+[submodule "forensic/forensic/bruteforce-luks"]
+	path = forensic/forensic/bruteforce-luks
+	url = https://github.com/glv2/bruteforce-luks
