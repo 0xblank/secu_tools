@@ -7,3 +7,6 @@
 [submodule "forensic/volatility3"]
 	path = forensic/volatility3
 	url = https://github.com/volatilityfoundation/volatility3
+[submodule "forensic/aes-finder"]
+	path = forensic/aes-finder
+	url = https://github.com/mmozeiko/aes-finder
