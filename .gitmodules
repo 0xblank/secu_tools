@@ -22,3 +22,6 @@
 [submodule "pentest/web/CVE-2019-15107"]
 	path = pentest/web/CVE-2019-15107
 	url = https://github.com/MuirlandOracle/CVE-2019-15107
+[submodule "pentest/web/domdig"]
+	path = pentest/web/domdig
+	url = https://github.com/fcavallarin/domdig.git
