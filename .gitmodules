@@ -28,3 +28,6 @@
 [submodule "pentest/web/bypass-url-parser"]
 	path = pentest/web/bypass-url-parser
 	url = https://github.com/laluka/bypass-url-parser.git
+[submodule "pentest/PayloadsAllTheThings"]
+	path = pentest/PayloadsAllTheThings
+	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
