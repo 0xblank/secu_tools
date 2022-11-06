@@ -25,3 +25,6 @@
 [submodule "pentest/web/domdig"]
 	path = pentest/web/domdig
 	url = https://github.com/fcavallarin/domdig.git
+[submodule "pentest/web/bypass-url-parser"]
+	path = pentest/web/bypass-url-parser
+	url = https://github.com/laluka/bypass-url-parser.git
