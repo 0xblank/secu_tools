@@ -73,3 +73,6 @@
 [submodule "pentest/hash_craking/hashcat"]
 	path = pentest/hash_craking/hashcat
 	url = git@github.com:hashcat/hashcat.git
+[submodule "pentest/impacket"]
+	path = pentest/impacket
+	url = https://github.com/SecureAuthCorp/impacket
