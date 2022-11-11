@@ -34,3 +34,6 @@
 [submodule "pentest/pivoting/chisel"]
 	path = pentest/pivoting/chisel
 	url = https://github.com/jpillora/chisel
+[submodule "pentest/web/ssti-payload"]
+	path = pentest/web/ssti-payload
+	url = https://github.com/VikasVarshney/ssti-payload
