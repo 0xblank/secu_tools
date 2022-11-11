@@ -61,3 +61,6 @@
 [submodule "pentest/ad/CrackMapExec"]
 	path = pentest/ad/CrackMapExec
 	url = https://github.com/Porchetta-Industries/CrackMapExec
+[submodule "pentest/ad/enum4linux"]
+	path = pentest/ad/enum4linux
+	url = https://github.com/CiscoCXSecurity/enum4linux
