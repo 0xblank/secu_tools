@@ -133,3 +133,6 @@
 [submodule "pentest/post-exploitation/Empire"]
 	path = pentest/post-exploitation/Empire
 	url = git@github.com:EmpireProject/Empire.git
+[submodule "pentest/post-exploitation/pspy"]
+	path = pentest/post-exploitation/pspy
+	url = git@github.com:DominicBreuker/pspy.git
