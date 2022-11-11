@@ -55,3 +55,6 @@
 [submodule "pentest/web/feroxbuster"]
 	path = pentest/web/feroxbuster
 	url = https://github.com/epi052/feroxbuster
+[submodule "pentest/web/gobuster"]
+	path = pentest/web/gobuster
+	url = https://github.com/OJ/gobuster
