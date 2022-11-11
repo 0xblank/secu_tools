@@ -43,3 +43,6 @@
 [submodule "pentest/web/jwt_tool"]
 	path = pentest/web/jwt_tool
 	url = https://github.com/ticarpi/jwt_tool
+[submodule "pentest/web/Pholus"]
+	path = pentest/web/Pholus
+	url = https://github.com/aatlasis/Pholus
