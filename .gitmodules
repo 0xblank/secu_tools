@@ -82,3 +82,6 @@
 [submodule "pentest/Responder"]
 	path = pentest/Responder
 	url = git@github.com:SpiderLabs/Responder.git
+[submodule "pentest/kekeo"]
+	path = pentest/kekeo
+	url = git@github.com:gentilkiwi/kekeo.git
