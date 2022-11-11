@@ -32,7 +32,7 @@
 	path = pentest/PayloadsAllTheThings
 	url = https://github.com/swisskyrepo/PayloadsAllTheThings.git
 [submodule "pentest/pivoting/chisel"]
-	path = pentest/pivoting/chisel
+	path = pentest/post-exploitation/pivoting/chisel
 	url = https://github.com/jpillora/chisel
 [submodule "pentest/web/ssti-payload"]
 	path = pentest/web/ssti-payload
@@ -68,10 +68,10 @@
 	path = pentest/exploitdb
 	url = git@gitlab.com:exploit-database/exploitdb.git
 [submodule "pentest/hash_craking/john"]
-	path = pentest/hash_craking/john
+	path = pentest/post-exploitation/hash_craking/john
 	url = https://github.com/openwall/john
 [submodule "pentest/hash_craking/hashcat"]
-	path = pentest/hash_craking/hashcat
+	path = pentest/post-exploitation/hash_craking/hashcat
 	url = git@github.com:hashcat/hashcat.git
 [submodule "pentest/impacket"]
 	path = pentest/impacket
@@ -86,13 +86,13 @@
 	path = pentest/post-exploitation/kekeo
 	url = git@github.com:gentilkiwi/kekeo.git
 [submodule "pentest/privesc/windows/Watson"]
-	path = pentest/privesc/windows/Watson
+	path = pentest/post-exploitation/privesc/windows/Watson
 	url = git@github.com:rasta-mouse/Watson.git
 [submodule "pentest/privesc/windows/Windows-Exploit-Suggester"]
-	path = pentest/privesc/windows/Windows-Exploit-Suggester
+	path = pentest/post-exploitation/privesc/windows/Windows-Exploit-Suggester
 	url = git@github.com:AonCyberLabs/Windows-Exploit-Suggester.git
 [submodule "pentest/privesc/PEASS-ng"]
-	path = pentest/privesc/PEASS-ng
+	path = pentest/post-exploitation/privesc/PEASS-ng
 	url = git@github.com:carlospolop/PEASS-ng.git
 [submodule "pentest/ad/kerbrute"]
 	path = pentest/ad/kerbrute
