@@ -76,3 +76,6 @@
 [submodule "pentest/impacket"]
 	path = pentest/impacket
 	url = https://github.com/SecureAuthCorp/impacket
+[submodule "pentest/thc-hydra"]
+	path = pentest/thc-hydra
+	url = git@github.com:vanhauser-thc/thc-hydra.git
