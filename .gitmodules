@@ -85,3 +85,6 @@
 [submodule "pentest/kekeo"]
 	path = pentest/kekeo
 	url = git@github.com:gentilkiwi/kekeo.git
+[submodule "pentest/privesc/windows/Watson"]
+	path = pentest/privesc/windows/Watson
+	url = git@github.com:rasta-mouse/Watson.git
