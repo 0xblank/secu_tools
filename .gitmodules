@@ -97,3 +97,6 @@
 [submodule "pentest/ad/kerbrute"]
 	path = pentest/ad/kerbrute
 	url = git@github.com:ropnop/kerbrute.git
+[submodule "forensic/android/ALEAPP"]
+	path = forensic/android/ALEAPP
+	url = git@github.com:abrignoni/ALEAPP.git
