@@ -109,3 +109,6 @@
 [submodule "pentest/web/ffuf"]
 	path = pentest/web/ffuf
 	url = git@github.com:ffuf/ffuf.git
+[submodule "forensic/Duck-Decoder"]
+	path = forensic/Duck-Decoder
+	url = git@github.com:JPaulMora/Duck-Decoder.git
