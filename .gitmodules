@@ -100,3 +100,6 @@
 [submodule "forensic/android/ALEAPP"]
 	path = forensic/android/ALEAPP
 	url = git@github.com:abrignoni/ALEAPP.git
+[submodule "forensic/android/androidqf"]
+	path = forensic/android/androidqf
+	url = git@github.com:botherder/androidqf.git
