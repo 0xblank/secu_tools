@@ -115,3 +115,6 @@
 [submodule "forensic/volatility"]
 	path = forensic/volatility
 	url = git@github.com:volatilityfoundation/volatility.git
+[submodule "forensic/volatility-plugins"]
+	path = forensic/volatility-plugins
+	url = git@github.com:TazWake/volatility-plugins.git
