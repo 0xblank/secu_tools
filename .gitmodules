@@ -121,3 +121,6 @@
 [submodule "forensic/bruteforce-luks"]
 	path = forensic/bruteforce-luks
 	url = git@github.com:glv2/bruteforce-luks.git
+[submodule "forensic/flare-vm"]
+	path = forensic/flare-vm
+	url = git@github.com:mandiant/flare-vm.git
