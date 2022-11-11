@@ -94,3 +94,6 @@
 [submodule "pentest/privesc/PEASS-ng"]
 	path = pentest/privesc/PEASS-ng
 	url = git@github.com:carlospolop/PEASS-ng.git
+[submodule "pentest/ad/kerbrute"]
+	path = pentest/ad/kerbrute
+	url = git@github.com:ropnop/kerbrute.git
