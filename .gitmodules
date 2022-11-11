@@ -118,3 +118,6 @@
 [submodule "forensic/volatility-plugins"]
 	path = forensic/volatility-plugins
 	url = git@github.com:TazWake/volatility-plugins.git
+[submodule "forensic/bruteforce-luks"]
+	path = forensic/bruteforce-luks
+	url = git@github.com:glv2/bruteforce-luks.git
