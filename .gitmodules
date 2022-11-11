@@ -91,3 +91,6 @@
 [submodule "pentest/privesc/windows/Windows-Exploit-Suggester"]
 	path = pentest/privesc/windows/Windows-Exploit-Suggester
 	url = git@github.com:AonCyberLabs/Windows-Exploit-Suggester.git
+[submodule "pentest/privesc/PEASS-ng"]
+	path = pentest/privesc/PEASS-ng
+	url = git@github.com:carlospolop/PEASS-ng.git
