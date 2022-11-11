@@ -88,3 +88,6 @@
 [submodule "pentest/privesc/windows/Watson"]
 	path = pentest/privesc/windows/Watson
 	url = git@github.com:rasta-mouse/Watson.git
+[submodule "pentest/privesc/windows/Windows-Exploit-Suggester"]
+	path = pentest/privesc/windows/Windows-Exploit-Suggester
+	url = git@github.com:AonCyberLabs/Windows-Exploit-Suggester.git
