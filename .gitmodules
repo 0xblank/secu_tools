@@ -103,3 +103,6 @@
 [submodule "forensic/android/androidqf"]
 	path = forensic/android/androidqf
 	url = git@github.com:botherder/androidqf.git
+[submodule "pentest/web/fzf"]
+	path = pentest/web/fzf
+	url = git@github.com:junegunn/fzf.git
