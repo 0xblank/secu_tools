@@ -127,3 +127,6 @@
 [submodule "reverse_engineering/jadx"]
 	path = reverse_engineering/jadx
 	url = git@github.com:skylot/jadx.git
+[submodule "reverse_engineering/rules"]
+	path = reverse_engineering/rules
+	url = git@github.com:Yara-Rules/rules.git
