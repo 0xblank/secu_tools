@@ -64,3 +64,6 @@
 [submodule "pentest/ad/enum4linux"]
 	path = pentest/ad/enum4linux
 	url = https://github.com/CiscoCXSecurity/enum4linux
+[submodule "pentest/exploitdb"]
+	path = pentest/exploitdb
+	url = git@gitlab.com:exploit-database/exploitdb.git
