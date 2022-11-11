@@ -52,3 +52,6 @@
 [submodule "pentest/web/clusterd"]
 	path = pentest/web/clusterd
 	url = https://github.com/hatRiot/clusterd
+[submodule "pentest/web/feroxbuster"]
+	path = pentest/web/feroxbuster
+	url = https://github.com/epi052/feroxbuster
