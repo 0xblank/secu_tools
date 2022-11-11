@@ -106,3 +106,6 @@
 [submodule "pentest/web/fzf"]
 	path = pentest/web/fzf
 	url = git@github.com:junegunn/fzf.git
+[submodule "pentest/web/ffuf"]
+	path = pentest/web/ffuf
+	url = git@github.com:ffuf/ffuf.git
