@@ -46,3 +46,6 @@
 [submodule "pentest/web/Pholus"]
 	path = pentest/web/Pholus
 	url = https://github.com/aatlasis/Pholus
+[submodule "pentest/web/ApacheTomcatScanner"]
+	path = pentest/web/ApacheTomcatScanner
+	url = https://github.com/p0dalirius/ApacheTomcatScanner
