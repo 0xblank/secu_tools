@@ -112,3 +112,6 @@
 [submodule "forensic/Duck-Decoder"]
 	path = forensic/Duck-Decoder
 	url = git@github.com:JPaulMora/Duck-Decoder.git
+[submodule "forensic/volatility"]
+	path = forensic/volatility
+	url = git@github.com:volatilityfoundation/volatility.git
