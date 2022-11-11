@@ -49,3 +49,6 @@
 [submodule "pentest/web/ApacheTomcatScanner"]
 	path = pentest/web/ApacheTomcatScanner
 	url = https://github.com/p0dalirius/ApacheTomcatScanner
+[submodule "pentest/web/clusterd"]
+	path = pentest/web/clusterd
+	url = https://github.com/hatRiot/clusterd
