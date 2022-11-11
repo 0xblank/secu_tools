@@ -83,7 +83,7 @@
 	path = pentest/Responder
 	url = git@github.com:SpiderLabs/Responder.git
 [submodule "pentest/kekeo"]
-	path = pentest/kekeo
+	path = pentest/post-exploitation/kekeo
 	url = git@github.com:gentilkiwi/kekeo.git
 [submodule "pentest/privesc/windows/Watson"]
 	path = pentest/privesc/windows/Watson
