@@ -58,3 +58,6 @@
 [submodule "pentest/web/gobuster"]
 	path = pentest/web/gobuster
 	url = https://github.com/OJ/gobuster
+[submodule "pentest/ad/CrackMapExec"]
+	path = pentest/ad/CrackMapExec
+	url = https://github.com/Porchetta-Industries/CrackMapExec
