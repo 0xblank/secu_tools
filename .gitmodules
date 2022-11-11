@@ -67,3 +67,6 @@
 [submodule "pentest/exploitdb"]
 	path = pentest/exploitdb
 	url = git@gitlab.com:exploit-database/exploitdb.git
+[submodule "pentest/hash_craking/john"]
+	path = pentest/hash_craking/john
+	url = https://github.com/openwall/john
