@@ -40,3 +40,6 @@
 [submodule "pentest/web/kiterunner"]
 	path = pentest/web/kiterunner
 	url = https://github.com/assetnote/kiterunner
+[submodule "pentest/web/jwt_tool"]
+	path = pentest/web/jwt_tool
+	url = https://github.com/ticarpi/jwt_tool
