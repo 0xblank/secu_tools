@@ -124,3 +124,6 @@
 [submodule "reverse_engineering/flare-vm"]
 	path = reverse_engineering/flare-vm
 	url = git@github.com:mandiant/flare-vm.git
+[submodule "reverse_engineering/jadx"]
+	path = reverse_engineering/jadx
+	url = git@github.com:skylot/jadx.git
