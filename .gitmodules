@@ -136,3 +136,6 @@
 [submodule "pentest/static-binaries"]
 	path = pentest/static-binaries
 	url = git@github.com:andrew-d/static-binaries.git
+[submodule "pentest/SecLists"]
+	path = pentest/SecLists
+	url = https://github.com/danielmiessler/SecLists
