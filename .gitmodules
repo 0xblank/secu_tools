@@ -136,3 +136,6 @@
 [submodule "pentest/post-exploitation/pspy"]
 	path = pentest/post-exploitation/pspy
 	url = git@github.com:DominicBreuker/pspy.git
+[submodule "pentest/static-binaries"]
+	path = pentest/static-binaries
+	url = git@github.com:andrew-d/static-binaries.git
