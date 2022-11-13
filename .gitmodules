@@ -139,3 +139,6 @@
 [submodule "pentest/SecLists"]
 	path = pentest/SecLists
 	url = https://github.com/danielmiessler/SecLists
+[submodule "pentest/post-exploitation/evil-winrm"]
+	path = pentest/post-exploitation/evil-winrm
+	url = git@github.com:Hackplayers/evil-winrm.git
