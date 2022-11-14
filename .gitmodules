@@ -142,3 +142,6 @@
 [submodule "pentest/post-exploitation/evil-winrm"]
 	path = pentest/post-exploitation/evil-winrm
 	url = git@github.com:Hackplayers/evil-winrm.git
+[submodule "pentest/web/fimap"]
+	path = pentest/web/fimap
+	url = git@github.com:kurobeats/fimap.git
