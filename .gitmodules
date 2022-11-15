@@ -145,3 +145,6 @@
 [submodule "Empire"]
 	path = pentest/post-exploitation/Empire
 	url = git@github.com:BC-SECURITY/Empire.git
+[submodule "pentest/post-exploitation/sliver"]
+	path = pentest/post-exploitation/sliver
+	url = git@github.com:BishopFox/sliver.git
