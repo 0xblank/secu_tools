@@ -142,3 +142,6 @@
 [submodule "pentest/web/fimap"]
 	path = pentest/web/fimap
 	url = git@github.com:kurobeats/fimap.git
+[submodule "Empire"]
+	path = pentest/post-exploitation/Empire
+	url = git@github.com:BC-SECURITY/Empire.git
