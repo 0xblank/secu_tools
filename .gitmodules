@@ -148,3 +148,6 @@
 [submodule "pentest/post-exploitation/sliver"]
 	path = pentest/post-exploitation/sliver
 	url = git@github.com:BishopFox/sliver.git
+[submodule "forensic/VolWeb"]
+	path = forensic/VolWeb
+	url = git@github.com:k1nd0ne/VolWeb.git
