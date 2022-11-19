@@ -151,3 +151,6 @@
 [submodule "forensic/VolWeb"]
 	path = forensic/VolWeb
 	url = git@github.com:k1nd0ne/VolWeb.git
+[submodule "pentest/post-exploitation/mimikatz"]
+	path = pentest/post-exploitation/mimikatz
+	url = git@github.com:gentilkiwi/mimikatz.git
