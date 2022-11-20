@@ -154,3 +154,6 @@
 [submodule "pentest/post-exploitation/mimikatz"]
 	path = pentest/post-exploitation/mimikatz
 	url = git@github.com:gentilkiwi/mimikatz.git
+[submodule "pentest/post-exploitation/Starkiller"]
+	path = pentest/post-exploitation/Starkiller
+	url = git@github.com:BC-SECURITY/Starkiller.git
