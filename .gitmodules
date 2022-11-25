@@ -160,3 +160,6 @@
 [submodule "pentest/web/GitTools"]
 	path = pentest/web/GitTools
 	url = git@github.com:internetwache/GitTools.git
+[submodule "pentest/nc.exe"]
+	path = pentest/nc.exe
+	url = git@github.com:int0x33/nc.exe.git
