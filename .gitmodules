@@ -163,3 +163,6 @@
 [submodule "pentest/nc.exe"]
 	path = pentest/nc.exe
 	url = git@github.com:int0x33/nc.exe.git
+[submodule "pentest/masscan"]
+	path = pentest/masscan
+	url = git@github.com:robertdavidgraham/masscan.git
