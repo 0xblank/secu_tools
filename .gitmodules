@@ -172,3 +172,6 @@
 [submodule "pentest/dns/Spoofy"]
 	path = pentest/dns/Spoofy
 	url = https://github.com/MattKeeley/Spoofy
+[submodule "pentest/MailSniper"]
+	path = pentest/MailSniper
+	url = git@github.com:dafthack/MailSniper.git
