@@ -166,3 +166,6 @@
 [submodule "pentest/masscan"]
 	path = pentest/masscan
 	url = git@github.com:robertdavidgraham/masscan.git
+[submodule "pentest/dns/dnscan"]
+	path = pentest/dns/dnscan
+	url = https://github.com/rbsec/dnscan
