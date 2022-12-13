@@ -169,3 +169,6 @@
 [submodule "pentest/dns/dnscan"]
 	path = pentest/dns/dnscan
 	url = https://github.com/rbsec/dnscan
+[submodule "pentest/dns/Spoofy"]
+	path = pentest/dns/Spoofy
+	url = https://github.com/MattKeeley/Spoofy
