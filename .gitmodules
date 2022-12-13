@@ -175,3 +175,6 @@
 [submodule "pentest/MailSniper"]
 	path = pentest/MailSniper
 	url = git@github.com:dafthack/MailSniper.git
+[submodule "pentest/SprayingToolkit"]
+	path = pentest/SprayingToolkit
+	url = git@github.com:byt3bl33d3r/SprayingToolkit.git
