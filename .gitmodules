@@ -178,3 +178,6 @@
 [submodule "pentest/SprayingToolkit"]
 	path = pentest/SprayingToolkit
 	url = git@github.com:byt3bl33d3r/SprayingToolkit.git
+[submodule "osint/OPSE-Framework"]
+	path = osint/OPSE-Framework
+	url = git@github.com:OPSE-Developers/OPSE-Framework.git
