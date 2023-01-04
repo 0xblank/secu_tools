@@ -181,3 +181,6 @@
 [submodule "osint/OPSE-Framework"]
 	path = osint/OPSE-Framework
 	url = git@github.com:OPSE-Developers/OPSE-Framework.git
+[submodule "pentest/web/XBruteForcer"]
+	path = pentest/web/XBruteForcer
+	url = git@github.com:Moham3dRiahi/XBruteForcer.git
