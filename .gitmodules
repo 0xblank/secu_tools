@@ -181,3 +181,6 @@
 [submodule "osint/OPSE-Framework"]
 	path = osint/OPSE-Framework
 	url = git@github.com:OPSE-Developers/OPSE-Framework.git
+[submodule "pentest/pwncat"]
+	path = pentest/pwncat
+	url = git@github.com:calebstewart/pwncat.git
