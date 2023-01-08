@@ -184,3 +184,6 @@
 [submodule "pentest/pwncat"]
 	path = pentest/pwncat
 	url = git@github.com:calebstewart/pwncat.git
+[submodule "pentest/web/php-reverse-shell"]
+	path = pentest/web/php-reverse-shell
+	url = git@github.com:ivan-sincek/php-reverse-shell.git
