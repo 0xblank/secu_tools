@@ -190,3 +190,6 @@
 [submodule "pentest/exploitdb"]
 	path = pentest/exploitdb
 	url = git@gitlab.com:exploit-database/exploitdb.git
+[submodule "pentest/dns/subfinder"]
+	path = pentest/dns/subfinder
+	url = git@github.com:projectdiscovery/subfinder.git
