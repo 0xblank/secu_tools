@@ -61,9 +61,6 @@
 [submodule "pentest/ad/enum4linux"]
 	path = pentest/ad/enum4linux
 	url = https://github.com/CiscoCXSecurity/enum4linux
-[submodule "pentest/exploitdb"]
-	path = pentest/exploitdb
-	url = git@gitlab.com:exploit-database/exploitdb.git
 [submodule "pentest/hash_craking/john"]
 	path = pentest/post-exploitation/hash_craking/john
 	url = https://github.com/openwall/john
@@ -190,3 +187,6 @@
 [submodule "pentest/Auto_Wordlists"]
 	path = pentest/Auto_Wordlists
 	url = git@github.com:carlospolop/Auto_Wordlists.git
+[submodule "pentest/exploitdb"]
+	path = pentest/exploitdb
+	url = git@gitlab.com:exploit-database/exploitdb.git
