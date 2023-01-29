@@ -66,103 +66,103 @@
 	url = https://github.com/openwall/john
 [submodule "pentest/hash_craking/hashcat"]
 	path = pentest/post-exploitation/hash_craking/hashcat
-	url = git@github.com:hashcat/hashcat.git
+	url = https://github.com/hashcat/hashcat.git
 [submodule "pentest/impacket"]
 	path = pentest/impacket
 	url = https://github.com/SecureAuthCorp/impacket
 [submodule "pentest/thc-hydra"]
 	path = pentest/thc-hydra
-	url = git@github.com:vanhauser-thc/thc-hydra.git
+	url = https://github.com/vanhauser-thc/thc-hydra.git
 [submodule "pentest/Responder"]
 	path = pentest/Responder
-	url = git@github.com:SpiderLabs/Responder.git
+	url = https://github.com/SpiderLabs/Responder.git
 [submodule "pentest/kekeo"]
 	path = pentest/post-exploitation/kekeo
-	url = git@github.com:gentilkiwi/kekeo.git
+	url = https://github.com/gentilkiwi/kekeo.git
 [submodule "pentest/privesc/windows/Watson"]
 	path = pentest/post-exploitation/privesc/windows/Watson
-	url = git@github.com:rasta-mouse/Watson.git
+	url = https://github.com/rasta-mouse/Watson.git
 [submodule "pentest/privesc/windows/Windows-Exploit-Suggester"]
 	path = pentest/post-exploitation/privesc/windows/Windows-Exploit-Suggester
-	url = git@github.com:AonCyberLabs/Windows-Exploit-Suggester.git
+	url = https://github.com/AonCyberLabs/Windows-Exploit-Suggester.git
 [submodule "pentest/privesc/PEASS-ng"]
 	path = pentest/post-exploitation/privesc/PEASS-ng
-	url = git@github.com:carlospolop/PEASS-ng.git
+	url = https://github.com/carlospolop/PEASS-ng.git
 [submodule "pentest/ad/kerbrute"]
 	path = pentest/ad/kerbrute
-	url = git@github.com:ropnop/kerbrute.git
+	url = https://github.com/ropnop/kerbrute.git
 [submodule "forensic/android/ALEAPP"]
 	path = forensic/android/ALEAPP
-	url = git@github.com:abrignoni/ALEAPP.git
+	url = https://github.com/abrignoni/ALEAPP.git
 [submodule "forensic/android/androidqf"]
 	path = forensic/android/androidqf
-	url = git@github.com:botherder/androidqf.git
+	url = https://github.com/botherder/androidqf.git
 [submodule "pentest/web/fzf"]
 	path = pentest/web/fzf
-	url = git@github.com:junegunn/fzf.git
+	url = https://github.com/junegunn/fzf.git
 [submodule "pentest/web/ffuf"]
 	path = pentest/web/ffuf
-	url = git@github.com:ffuf/ffuf.git
+	url = https://github.com/ffuf/ffuf.git
 [submodule "forensic/Duck-Decoder"]
 	path = forensic/Duck-Decoder
-	url = git@github.com:JPaulMora/Duck-Decoder.git
+	url = https://github.com/JPaulMora/Duck-Decoder.git
 [submodule "forensic/volatility"]
 	path = forensic/volatility
-	url = git@github.com:volatilityfoundation/volatility.git
+	url = https://github.com/volatilityfoundation/volatility.git
 [submodule "forensic/volatility-plugins"]
 	path = forensic/volatility-plugins
-	url = git@github.com:TazWake/volatility-plugins.git
+	url = https://github.com/TazWake/volatility-plugins.git
 [submodule "forensic/bruteforce-luks"]
 	path = forensic/bruteforce-luks
-	url = git@github.com:glv2/bruteforce-luks.git
+	url = https://github.com/glv2/bruteforce-luks.git
 [submodule "reverse_engineering/flare-vm"]
 	path = reverse_engineering/flare-vm
-	url = git@github.com:mandiant/flare-vm.git
+	url = https://github.com/mandiant/flare-vm.git
 [submodule "reverse_engineering/jadx"]
 	path = reverse_engineering/jadx
-	url = git@github.com:skylot/jadx.git
+	url = https://github.com/skylot/jadx.git
 [submodule "reverse_engineering/rules"]
 	path = reverse_engineering/rules
-	url = git@github.com:Yara-Rules/rules.git
+	url = https://github.com/Yara-Rules/rules.git
 [submodule "pentest/post-exploitation/pspy"]
 	path = pentest/post-exploitation/pspy
-	url = git@github.com:DominicBreuker/pspy.git
+	url = https://github.com/DominicBreuker/pspy.git
 [submodule "pentest/static-binaries"]
 	path = pentest/static-binaries
-	url = git@github.com:andrew-d/static-binaries.git
+	url = https://github.com/andrew-d/static-binaries.git
 [submodule "pentest/SecLists"]
 	path = pentest/SecLists
 	url = https://github.com/danielmiessler/SecLists
 [submodule "pentest/post-exploitation/evil-winrm"]
 	path = pentest/post-exploitation/evil-winrm
-	url = git@github.com:Hackplayers/evil-winrm.git
+	url = https://github.com/Hackplayers/evil-winrm.git
 [submodule "pentest/web/fimap"]
 	path = pentest/web/fimap
-	url = git@github.com:kurobeats/fimap.git
+	url = https://github.com/kurobeats/fimap.git
 [submodule "Empire"]
 	path = pentest/post-exploitation/Empire
-	url = git@github.com:BC-SECURITY/Empire.git
+	url = https://github.com/BC-SECURITY/Empire.git
 [submodule "pentest/post-exploitation/sliver"]
 	path = pentest/post-exploitation/sliver
-	url = git@github.com:BishopFox/sliver.git
+	url = https://github.com/BishopFox/sliver.git
 [submodule "forensic/VolWeb"]
 	path = forensic/VolWeb
-	url = git@github.com:k1nd0ne/VolWeb.git
+	url = https://github.com/k1nd0ne/VolWeb.git
 [submodule "pentest/post-exploitation/mimikatz"]
 	path = pentest/post-exploitation/mimikatz
-	url = git@github.com:gentilkiwi/mimikatz.git
+	url = https://github.com/gentilkiwi/mimikatz.git
 [submodule "pentest/post-exploitation/Starkiller"]
 	path = pentest/post-exploitation/Starkiller
-	url = git@github.com:BC-SECURITY/Starkiller.git
+	url = https://github.com/BC-SECURITY/Starkiller.git
 [submodule "pentest/web/GitTools"]
 	path = pentest/web/GitTools
-	url = git@github.com:internetwache/GitTools.git
+	url = https://github.com/internetwache/GitTools.git
 [submodule "pentest/nc.exe"]
 	path = pentest/nc.exe
-	url = git@github.com:int0x33/nc.exe.git
+	url = https://github.com/int0x33/nc.exe.git
 [submodule "pentest/masscan"]
 	path = pentest/masscan
-	url = git@github.com:robertdavidgraham/masscan.git
+	url = https://github.com/robertdavidgraham/masscan.git
 [submodule "pentest/dns/dnscan"]
 	path = pentest/dns/dnscan
 	url = https://github.com/rbsec/dnscan
@@ -171,25 +171,25 @@
 	url = https://github.com/MattKeeley/Spoofy
 [submodule "pentest/MailSniper"]
 	path = pentest/MailSniper
-	url = git@github.com:dafthack/MailSniper.git
+	url = https://github.com/dafthack/MailSniper.git
 [submodule "pentest/SprayingToolkit"]
 	path = pentest/SprayingToolkit
-	url = git@github.com:byt3bl33d3r/SprayingToolkit.git
+	url = https://github.com/byt3bl33d3r/SprayingToolkit.git
 [submodule "osint/OPSE-Framework"]
 	path = osint/OPSE-Framework
-	url = git@github.com:OPSE-Developers/OPSE-Framework.git
+	url = https://github.com/OPSE-Developers/OPSE-Framework.git
 [submodule "pentest/pwncat"]
 	path = pentest/pwncat
-	url = git@github.com:calebstewart/pwncat.git
+	url = https://github.com/calebstewart/pwncat.git
 [submodule "pentest/web/php-reverse-shell"]
 	path = pentest/web/php-reverse-shell
-	url = git@github.com:ivan-sincek/php-reverse-shell.git
+	url = https://github.com/ivan-sincek/php-reverse-shell.git
 [submodule "pentest/Auto_Wordlists"]
 	path = pentest/Auto_Wordlists
-	url = git@github.com:carlospolop/Auto_Wordlists.git
+	url = https://github.com/carlospolop/Auto_Wordlists.git
 [submodule "pentest/exploitdb"]
 	path = pentest/exploitdb
-	url = git@gitlab.com:exploit-database/exploitdb.git
+	url = https://gitlab.com/exploit-database/exploitdb.git
 [submodule "pentest/dns/subfinder"]
 	path = pentest/dns/subfinder
-	url = git@github.com:projectdiscovery/subfinder.git
+	url = https://github.com/projectdiscovery/subfinder.git
