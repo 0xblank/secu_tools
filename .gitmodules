@@ -193,3 +193,6 @@
 [submodule "pentest/dns/subfinder"]
 	path = pentest/dns/subfinder
 	url = https://github.com/projectdiscovery/subfinder.git
+[submodule "pentest/post-exploitation/privesc/linux/LinEnum"]
+	path = pentest/post-exploitation/privesc/linux/LinEnum
+	url = https://github.com/rebootuser/LinEnum.git
