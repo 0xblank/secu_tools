@@ -196,3 +196,6 @@
 [submodule "pentest/post-exploitation/privesc/linux/LinEnum"]
 	path = pentest/post-exploitation/privesc/linux/LinEnum
 	url = https://github.com/rebootuser/LinEnum.git
+[submodule "pentest/post-exploitation/privesc/windows/PowerSploit"]
+	path = pentest/post-exploitation/privesc/windows/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git
