@@ -199,3 +199,6 @@
 [submodule "pentest/post-exploitation/privesc/windows/PowerSploit"]
 	path = pentest/post-exploitation/privesc/windows/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "pentest/post-exploitation/pivoting/sshuttle"]
+	path = pentest/post-exploitation/pivoting/sshuttle
+	url = https://github.com/sshuttle/sshuttle.git
