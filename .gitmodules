@@ -207,3 +207,6 @@
 [submodule "forensic/chainsaw"]
 	path = forensic/chainsaw
 	url = https://github.com/WithSecureLabs/chainsaw.git
+[submodule "forensic/sigma"]
+	path = forensic/sigma
+	url = https://github.com/SigmaHQ/sigma
