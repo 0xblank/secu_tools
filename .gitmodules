@@ -210,3 +210,6 @@
 [submodule "forensic/sigma"]
 	path = forensic/sigma
 	url = https://github.com/SigmaHQ/sigma
+[submodule "forensic/EVTX-ATTACK-SAMPLES"]
+	path = forensic/EVTX-ATTACK-SAMPLES
+	url = https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES.git
