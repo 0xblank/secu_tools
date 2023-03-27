@@ -213,3 +213,6 @@
 [submodule "forensic/EVTX-ATTACK-SAMPLES"]
 	path = forensic/EVTX-ATTACK-SAMPLES
 	url = https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES.git
+[submodule "forensic/gr-gsm"]
+	path = forensic/gr-gsm
+	url = https://gitea.osmocom.org/sdr/gr-gsm
