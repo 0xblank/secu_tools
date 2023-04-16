@@ -216,3 +216,9 @@
 [submodule "forensic/gr-gsm"]
 	path = forensic/gr-gsm
 	url = https://gitea.osmocom.org/sdr/gr-gsm
+[submodule "pentest/web/Chankro"]
+	path = pentest/web/Chankro
+	url = https://github.com/TarlogicSecurity/Chankro.git
+[submodule "osint/sherlock"]
+	path = osint/sherlock
+	url = https://github.com/sherlock-project/sherlock.git
