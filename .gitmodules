@@ -222,3 +222,15 @@
 [submodule "osint/sherlock"]
 	path = osint/sherlock
 	url = https://github.com/sherlock-project/sherlock.git
+[submodule "crypto/aes-ecb-attacks"]
+	path = crypto/aes-ecb-attacks
+	url = https://github.com/emilystamm/aes-ecb-attacks.git
+[submodule "forensic/python-evtx"]
+	path = forensic/python-evtx
+	url = https://github.com/williballenthin/python-evtx.git
+[submodule "forensic/DeepBlueCLI"]
+	path = forensic/DeepBlueCLI
+	url = https://github.com/sans-blue-team/DeepBlueCLI.git
+[submodule "forensic/win10_volatility"]
+	path = forensic/win10_volatility
+	url = https://github.com/mandiant/win10_volatility.git
