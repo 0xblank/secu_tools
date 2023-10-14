@@ -234,3 +234,6 @@
 [submodule "forensic/win10_volatility"]
 	path = forensic/win10_volatility
 	url = https://github.com/mandiant/win10_volatility.git
+[submodule "pentest/web/php_filter_chain_generator"]
+	path = pentest/web/php_filter_chain_generator
+	url = https://github.com/synacktiv/php_filter_chain_generator.git
